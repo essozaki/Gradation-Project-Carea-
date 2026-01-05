@@ -1,7 +1,7 @@
 # Graduation Project - Carea 🎓
 
 ## 📌 Project Overview
-**Gradation Project - Carea** is a university graduation project repository created in 2023.  
+**Graduation Project - Carea** is a university graduation project repository created in 2023.  
 This project includes a web application and backend services, likely developed as part of a final year graduation requirement. :contentReference[oaicite:0]{index=0}
 
 
